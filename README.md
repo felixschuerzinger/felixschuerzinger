@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a PhD student at the MAP5, Université Paris Cité.
+
+I am working on nonparametric estimation for stochastic differential equations.
+
+Right now, I am studying a least-squares projection estimator for an integral transform of the transition density of a stochastic differential equation.
+
 <!--
 **felixschuerzinger/felixschuerzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
