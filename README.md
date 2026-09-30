@@ -4,7 +4,7 @@ I am a PhD student at the laboratoire MAP5, Université Paris Cité.
 
 I currently work on nonparametric estimation for stochastic differential equations.
 
-Right now, I am studying a least-squares projection estimator for an integral transform of the transition density of a stochastic differential equation.
+I am very interested in least-squares projection estimators for (hypoelliptic) stochastic differential equation.
 This github gathers the simulation work connected to my mathematics research.
 
 I am also passionate about econometrics, specifically option pricing and market dynamics along with their mathematical backgrounds.
